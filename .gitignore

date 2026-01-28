@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-
-Database/swapi.db
-
-
-Notebooks/.ipynb_checkpoints/
