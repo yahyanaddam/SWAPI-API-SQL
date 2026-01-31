@@ -21,7 +21,8 @@ CREATE TABLE IF NOT EXISTS planets (
     gravity TEXT,
     terrain TEXT,
     surface_water TEXT,
-    population TEXT
+    population TEXT,
+    url TEXT
 );
 
 
@@ -46,7 +47,8 @@ CREATE TABLE IF NOT EXISTS species (
     eye_colors TEXT,
     average_lifespan TEXT,
     language TEXT,
-    homeworld TEXT
+    homeworld TEXT,
+    url TEXT
 );
 
 CREATE TABLE IF NOT EXISTS vehicles (

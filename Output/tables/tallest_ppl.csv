@@ -1,11 +1,4 @@
 name,height
-R5-D4,97
-R2-D2,96
-R4-P17,96
-Dud Bolt,94
-Wicket Systri Warrick,88
-Ratts Tyerel,79
-Yoda,66
 Yarael Poof,264
 Tarfful,234
 Lama Su,229
@@ -19,64 +12,71 @@ Darth Vader,202
 IG-88,200
 Dexter Jettster,198
 Ki-Adi-Mundi,198
-Mas Amedda,196
-Kit Fisto,196
 Jar Jar Binks,196
-Dooku,193
-Wat Tambor,193
+Kit Fisto,196
+Mas Amedda,196
 Qui-Gon Jinn,193
+Wat Tambor,193
+Dooku,193
 San Hill,191
-Bail Prestor Organa,191
 Nute Gunray,191
+Bail Prestor Organa,191
 Bossk,190
-Plo Koon,188
 Saesee Tiin,188
-Anakin Skywalker,188
-Mace Windu,188
+Plo Koon,188
 Raymus Antilles,188
+Mace Windu,188
+Anakin Skywalker,188
 Padmé Amidala,185
 Gregar Typho,185
 Adi Gallia,184
-Quarsh Panaka,183
-Boba Fett,183
-Ric Olié,183
-Poggle the Lesser,183
 Jango Fett,183
 Biggs Darklighter,183
+Poggle the Lesser,183
 Cliegg Lars,183
+Ric Olié,183
+Quarsh Panaka,183
+Boba Fett,183
 Obi-Wan Kenobi,182
-Jek Tono Porkins,180
 Bib Fortuna,180
+Ackbar,180
+Jek Tono Porkins,180
 Han Solo,180
 Wilhuff Tarkin,180
-Ackbar,180
 Owen Lars,178
 Sly Moore,178
-Shaak Ti,178
 Ayla Secura,178
+Shaak Ti,178
 Lando Calrissian,177
-Darth Maul,175
 Jabba Desilijic Tiure,175
+Darth Maul,175
 Lobot,175
 Greedo,173
 Luke Skywalker,172
 Eeth Koth,171
-Luminara Unduli,170
+Finis Valorum,170
 Wedge Antilles,170
 Palpatine,170
-Finis Valorum,170
+Luminara Unduli,170
 Zam Wesell,168
-C-3PO,167
 Jocasta Nu,167
+C-3PO,167
 Barriss Offee,166
 Dormé,165
 Beru Whitesun lars,165
-Ben Quadinaros,163
 Shmi Skywalker,163
+Ben Quadinaros,163
 Nien Nunb,160
 Cordé,157
-Mon Mothma,150
 Leia Organa,150
+Mon Mothma,150
 Watto,137
 Gasgano,122
 Sebulba,112
+R5-D4,97
+R2-D2,96
+R4-P17,96
+Dud Bolt,94
+Wicket Systri Warrick,88
+Ratts Tyerel,79
+Yoda,66
