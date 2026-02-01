@@ -1,44 +1,44 @@
-name,birth_year
-Yoda,896BBY
-Jabba Desilijic Tiure,600BBY
-Chewbacca,200BBY
-C-3PO,112BBY
-Dooku,102BBY
-Qui-Gon Jinn,92BBY
-Ki-Adi-Mundi,92BBY
-Finis Valorum,91BBY
-Palpatine,82BBY
-Cliegg Lars,82BBY
-Mace Windu,72BBY
-Shmi Skywalker,72BBY
-Bail Prestor Organa,67BBY
-Jango Fett,66BBY
-Wilhuff Tarkin,64BBY
-Quarsh Panaka,62BBY
-Luminara Unduli,58BBY
-Obi-Wan Kenobi,57BBY
-Darth Maul,54BBY
-Bossk,53BBY
-Jar Jar Binks,52BBY
-Owen Lars,52BBY
-Ayla Secura,48BBY
-Mon Mothma,48BBY
-Beru Whitesun lars,47BBY
-Padmé Amidala,46BBY
-Greedo,44BBY
-Darth Vader,41.9BBY
-Anakin Skywalker,41.9BBY
-Ackbar,41BBY
-Barriss Offee,40BBY
-Lobot,37BBY
-R2-D2,33BBY
-Lando Calrissian,31BBY
-Boba Fett,31.5BBY
-Han Solo,29BBY
-Biggs Darklighter,24BBY
-Plo Koon,22BBY
-Wedge Antilles,21BBY
-Leia Organa,19BBY
-Luke Skywalker,19BBY
-IG-88,15BBY
-Wicket Systri Warrick,8BBY
+name,birth_year,birth_year_num
+Yoda,896BBY,896
+Jabba Desilijic Tiure,600BBY,600
+Chewbacca,200BBY,200
+C-3PO,112BBY,112
+Dooku,102BBY,102
+Qui-Gon Jinn,92BBY,92
+Ki-Adi-Mundi,92BBY,92
+Finis Valorum,91BBY,91
+Palpatine,82BBY,82
+Cliegg Lars,82BBY,82
+Mace Windu,72BBY,72
+Shmi Skywalker,72BBY,72
+Bail Prestor Organa,67BBY,67
+Jango Fett,66BBY,66
+Wilhuff Tarkin,64BBY,64
+Quarsh Panaka,62BBY,62
+Luminara Unduli,58BBY,58
+Obi-Wan Kenobi,57BBY,57
+Darth Maul,54BBY,54
+Bossk,53BBY,53
+Jar Jar Binks,52BBY,52
+Owen Lars,52BBY,52
+Ayla Secura,48BBY,48
+Mon Mothma,48BBY,48
+Beru Whitesun lars,47BBY,47
+Padmé Amidala,46BBY,46
+Greedo,44BBY,44
+Darth Vader,41.9BBY,41
+Anakin Skywalker,41.9BBY,41
+Ackbar,41BBY,41
+Barriss Offee,40BBY,40
+Lobot,37BBY,37
+R2-D2,33BBY,33
+Lando Calrissian,31BBY,31
+Boba Fett,31.5BBY,31
+Han Solo,29BBY,29
+Biggs Darklighter,24BBY,24
+Plo Koon,22BBY,22
+Wedge Antilles,21BBY,21
+Leia Organa,19BBY,19
+Luke Skywalker,19BBY,19
+IG-88,15BBY,15
+Wicket Systri Warrick,8BBY,8
