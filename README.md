@@ -26,11 +26,11 @@ and produces insights + charts.
 
 5. Run these notebooks in this order :
 
- api_ingestion.ipynb --> analysis.ipynb --> visulization.ipynb --> final_report.ipynb
+ api_ingestion.ipynb --> analysis.ipynb --> visualization.ipynb --> final_report.ipynb
 
 
 ## Project structure 
-`
+```
 ├── Data/
 │   ├── people.json
 │   ├── planets.json
@@ -53,7 +53,7 @@ and produces insights + charts.
 │
 ├── .gitignore
 └── README.md
-`
+```
 ## Tools used 
 
 - Python
